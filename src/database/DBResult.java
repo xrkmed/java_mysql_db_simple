@@ -5,6 +5,8 @@ import java.sql.SQLException;
 
 public class DBResult {
 
+	//@xrkmed
+	
 	private ResultSet result = null;
 	
 	public DBResult(ResultSet _r){ result = _r; }

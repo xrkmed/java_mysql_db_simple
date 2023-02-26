@@ -9,6 +9,9 @@ import database.Database;
 
 public class main {
 	
+	//@xrkmed
+	//EXAMPLE USE
+	
 	private static Connection conn;
 
 	public static void main(String[] args) {

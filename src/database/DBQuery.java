@@ -7,6 +7,8 @@ import java.sql.SQLException;
 
 public class DBQuery {
 	
+	//xrkmed
+	
 	private PreparedStatement statement = null;
 	private Connection conn = null;
 	
